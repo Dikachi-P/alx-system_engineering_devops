@@ -4,4 +4,5 @@
 3-listfiles: display contents of current directory in long format
 4-listmorefiles: dispay contents of current directory including hidden files 
 5-listfilesdigitonly: display current directory contents in long format including hidden files, user and groups IDs diplayed numerically
-6-firstdirectory: create a subdirectory in the tmp directory    
+6-firstdirectory: create a subdirectory in the tmp directory
+7-movethatfile: move file betty from tmp to /tmp/my_first_directory     
