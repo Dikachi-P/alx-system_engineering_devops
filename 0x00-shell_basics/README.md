@@ -9,4 +9,5 @@
 8-firstdelete: delete betty from my_first_directory in the tmp directory
 9-firstdirdeletion: delete my_first_directory from the tmp directory
 10-back: change the working directory to parent directory
-11-lists: list all files including hidden files in the current directory, parent directory and /boot directory         
+11-lists: list all files including hidden files in the current directory, parent directory and /boot directory
+12-file_type: print type of file iamafile in the tmp directory          
