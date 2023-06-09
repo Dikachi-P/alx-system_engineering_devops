@@ -7,4 +7,5 @@
 6-firstdirectory: create a subdirectory in the tmp directory
 7-movethatfile: move file betty from tmp to /tmp/my_first_directory
 8-firstdelete: delete betty from my_first_directory in the tmp directory
-9-firstdirdeletion: delete my_first_directory from the tmp directory       
+9-firstdirdeletion: delete my_first_directory from the tmp directory
+10-back: change the working directory to parent directory        
