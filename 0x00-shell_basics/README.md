@@ -16,4 +16,5 @@
 100-lets_move: move all files beginning with uppercase letter to subdirectory u in the tmp directory
 101-clean_emacs: delete all files that ends with ~ in the current directory
 102-tree: create directory tree from current directory as thus, welcome, welcome/to and welcome/to/school
-103-commas: list all files and directories in the current directory, seperated by comma           
+103-commas: list all files and directories in the current directory, seperated by comma
+school.mgc: a magic file used with the command file to detect SCHOOL           
