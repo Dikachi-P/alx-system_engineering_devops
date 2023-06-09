@@ -15,4 +15,5 @@
 14-copy_html: copy all .html files from current directory to parent directory, copy only files that do not existing in the parent or newer version files to the parent directory
 100-lets_move: move all files beginning with uppercase letter to subdirectory u in the tmp directory
 101-clean_emacs: delete all files that ends with ~ in the current directory
-102-tree: create directory tree from current directory as thus, welcome, welcome/to and welcome/to/school          
+102-tree: create directory tree from current directory as thus, welcome, welcome/to and welcome/to/school
+103-commas: list all files and directories in the current directory, seperated by comma           
