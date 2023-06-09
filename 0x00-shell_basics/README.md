@@ -13,4 +13,5 @@
 12-file_type: print type of file iamafile in the tmp directory
 13-symbolic_link: create a symbolic link named __ls__ in the /bin/ls directory
 14-copy_html: copy all .html files from current directory to parent directory, copy only files that do not existing in the parent or newer version files to the parent directory
-100-lets_move: move all files beginning with uppercase letter to subdirectory u in the tmp directory         
+100-lets_move: move all files beginning with uppercase letter to subdirectory u in the tmp directory
+101-clean_emacs: delete all files that ends with ~ in the current directory         
