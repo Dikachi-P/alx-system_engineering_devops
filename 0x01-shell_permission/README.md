@@ -1,0 +1,1 @@
+0-iam_betty: switches current user to user betty as a newly created user(using exactly 8 character in the command) 
