@@ -12,4 +12,5 @@
 11-directories_permissions: add execute permission to all subdirectories of the current directory, for the owner, the group owners and all other users
 12-directory_permissions: command the creates a directory my_dir with permission 751 in the working directory
 13-change_group: change group owner to school for the file hello
-100-change_owner_and_group: change owner to vincent and group owner to staff of all files and directories in the working directory 
+100-change_owner_and_group: change owner to vincent and group owner to staff of all files and directories in the working directory
+101-symbolic_link_permissions:  changes the owner and the group owner o file _hello to vincent and staff respectively 
