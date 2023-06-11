@@ -4,4 +4,5 @@
 3-new_owner: change the onwer of the file hello to user betty
 4-empty: command that create an empty file hello
 5-execute: add execute permission to the owner of the file hello at the working directory
-6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to other users, to the file hello 
+6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to other users, to the file hello
+7-everybody: add execute permission to the owner, the group owner and the other users, to the file hello
