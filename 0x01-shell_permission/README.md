@@ -9,4 +9,5 @@
 8-James_Bond: set all permissions to other users, and no permission at all to the owner and the group owner
 9-John_Doe: set mode of the file hello to this -rwxr-x-wx
 10-mirror_permissions: set the mode of the file hello same as olleh file
-11-directories_permissions: add execute permission to all subdirectories of the current directory, for the owner, the group owners and all other users 
+11-directories_permissions: add execute permission to all subdirectories of the current directory, for the owner, the group owners and all other users
+12-directory_permissions: command the creates a directory my_dir with permission 751 in the working directory 
