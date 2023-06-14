@@ -10,4 +10,5 @@
 8-cwd_state: redirect the output of ls -la command to ls_cwd_content file
 9-duplicat_last_line: duplicate the last line of a file iacta
 10-no_more_js: delete all regular files with .js extention present in tne currrent directory and all its subfolders
-11-directories: count the number of directories and subdirectories in a working directories including hidden directories. current and parent directory should not be taken into account     
+11-directories: count the number of directories and subdirectories in a working directories including hidden directories. current and parent directory should not be taken into account
+12-newest_files: display 10 newest files in a current directory, one per line, sorted from the newest to oldest      
