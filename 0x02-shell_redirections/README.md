@@ -3,4 +3,5 @@
 2-hellofile: display the content of etc/passwd file
 3-twofiles: display the content of etc/passwd and etc/host file
 4-lastlines: to display the 10 last lines of a file etc/passwd
-5-firstlines: display the first 10 lines of a file     
+5-firstlines: display the first 10 lines of a file
+6-third_line: display the third line of a file iacta      
