@@ -22,4 +22,5 @@
 20-hiago: remove all letters c and C from input
 21-reverse: command that revervses its input
 22-users_and_homes: display all users and thier home directories, sorted by users in the etc/passwd file
-100-empty_casks: command that finds all the empty files and directories in the current directory and all subdirectories. diaplay names only not the path including hidden files, one file per line          
+100-empty_casks: command that finds all the empty files and directories in the current directory and all subdirectories. diaplay names only not the path including hidden files, one file per line
+101-gifs: display all files with a .gif extension in the current directory and all the subdirectories. only regular files, including hidden files, sorted by bytes and case sensitive, one file per line           
