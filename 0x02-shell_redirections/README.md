@@ -13,4 +13,5 @@
 11-directories: count the number of directories and subdirectories in a working directories including hidden directories. current and parent directory should not be taken into account
 12-newest_files: display 10 newest files in a current directory, one per line, sorted from the newest to oldest 
 13-unique: take list of words as input and display words that appeared exactly once. input and output should be one line per word, and words sorted
-14-findthatword: display lines containing pattern "root" from the file etc/passwd  
+14-findthatword: display lines containing pattern "root" from the file etc/passwd
+15-countthatword: display the number of lines that contain the pattern 'bin' in the file etc/passwd  
