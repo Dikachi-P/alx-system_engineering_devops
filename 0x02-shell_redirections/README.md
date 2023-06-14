@@ -8,4 +8,5 @@
 6-third_line: display the third line of a file iacta 
 7-file: create a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the content Best School 
 8-cwd_state: redirect the output of ls -la command to ls_cwd_content file
-9-duplicat_last_line: duplicate the last line of a file iacta   
+9-duplicat_last_line: duplicate the last line of a file iacta
+10-no_more_js: delete all regular files with .js extention present in tne currrent directory and all its subfolders    
