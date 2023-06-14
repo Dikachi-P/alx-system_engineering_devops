@@ -15,4 +15,5 @@
 13-unique: take list of words as input and display words that appeared exactly once. input and output should be one line per word, and words sorted
 14-findthatword: display lines containing pattern "root" from the file etc/passwd
 15-countthatword: display the number of lines that contain the pattern 'bin' in the file etc/passwd
-16-whatsnext: display lines that contain the pattern 'root' and 3 lines after them in the file etc/passwd   
+16-whatsnext: display lines that contain the pattern 'root' and 3 lines after them in the file etc/passwd
+17-hidethisword: display all the lines in the file etc/passwd that do not contain the pattern 'bin'    
