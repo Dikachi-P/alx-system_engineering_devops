@@ -21,4 +21,5 @@
 19-AZ: Replace A and c from input to Z and e respectively
 20-hiago: remove all letters c and C from input
 21-reverse: command that revervses its input
-22-users_and_homes: display all users and thier home directories, sorted by users in the etc/passwd file         
+22-users_and_homes: display all users and thier home directories, sorted by users in the etc/passwd file
+100-empty_casks: command that finds all the empty files and directories in the current directory and all subdirectories. diaplay names only not the path including hidden files, one file per line          
