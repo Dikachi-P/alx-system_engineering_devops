@@ -20,4 +20,5 @@
 18-letteronly: display all lines in the file etc/ssh/sshd_config starting with letter, include capital letters as well
 19-AZ: Replace A and c from input to Z and e respectively
 20-hiago: remove all letters c and C from input
-21-reverse: command that revervses its input        
+21-reverse: command that revervses its input
+22-users_and_homes: display all users and thier home directories, sorted by users in the etc/passwd file         
